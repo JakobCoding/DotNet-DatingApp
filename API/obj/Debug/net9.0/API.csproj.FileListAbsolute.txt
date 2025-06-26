@@ -6,15 +6,11 @@ C:\Users\Bossman\source\repos\DotNet-DatingApp\API\bin\Debug\net9.0\API.deps.jso
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\bin\Debug\net9.0\API.runtimeconfig.json
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\bin\Debug\net9.0\API.dll
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\bin\Debug\net9.0\API.pdb
-C:\Users\Bossman\source\repos\DotNet-DatingApp\API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Bossman\source\repos\DotNet-DatingApp\API\bin\Debug\net9.0\Microsoft.OpenApi.dll
-C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\rpswa.dswa.cache.json
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.AssemblyInfo.cs
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
-C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.sourcelink.json
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\rjimswa.dswa.cache.json
@@ -25,7 +21,6 @@ C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\staticwebass
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.csproj.Up2Date
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.dll
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\refint\API.dll
 C:\Users\Bossman\source\repos\DotNet-DatingApp\API\obj\Debug\net9.0\API.pdb
