@@ -3,10 +3,7 @@ bin/
 obj/
 
 # User-specific files
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
+
 
 # Visual Studio Code settings
 .vscode/
